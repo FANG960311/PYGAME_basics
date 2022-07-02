@@ -40,9 +40,9 @@ player_rect.centery = WINDOW_HEIGHT//2
 displayscreen.blit(player_image, player_rect)
 
 ```
-**_5. Game Assets_**:<br>
-[Icon Archieve:](https://iconarchive.com/) 網站提供很多遊戲角色下載
+**_5. Game Assets_**: <br>
+[Icon Archieve:](https://iconarchive.com/) 網站提供很多遊戲角色下載 <br>
 [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以自己簡單製作音效
     
     
-![2.py程式截圖](https://github.com/FANG960311/PYGAME_basics/blob/main/1.png)
+<img src="https://github.com/FANG960311/PYGAME_basics/blob/main/1.png" width="400 height="300 alt="2.py程式截圖"><br>
