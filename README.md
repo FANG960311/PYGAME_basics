@@ -45,4 +45,4 @@ displayscreen.blit(player_image, player_rect)
 [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以自己簡單製作音效
     
     
-<img src="https://github.com/FANG960311/PYGAME_basics/blob/main/1.png" width="400 height="300 alt="2.py程式截圖"><br>
+<img src="https://github.com/FANG960311/PYGAME_basics/blob/main/1.png" width="400" height="300" alt="2.py程式截圖"><br>
