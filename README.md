@@ -15,3 +15,13 @@
   * Pygame可以做出2-D小遊戲
   * Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
   * Pygame提供許多內建的game objects 來製作遊戲
+
+**_3. PYGame Basics_**:
+| name | Description |
+|:-----:|:----------:|
+| _1.py_ | Create my game surface, game loop and drawing.|
+| _2.py_ | Blit text, font, sound and image objects.   |
+| _3.py_ | Getting user keyboard and collision dection.|
+
+**_4. Code snippet_**
+
