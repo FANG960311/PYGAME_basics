@@ -3,10 +3,9 @@
 1. **參考資料:**
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref/
-    3.(下載音效) 
-    4. Font Space: https://www.fontspace.com/commercial-fonts
-    5. Freepik: https://www.freepik.com/free-photos-vectors/game-background
-    6. ~XXXXXXX忘記了~
+    3. Font Space: https://www.fontspace.com/commercial-fonts
+    4. Freepik: https://www.freepik.com/free-photos-vectors/game-background
+    5. ~XXXXXXX忘記了~
 
 
 ------
@@ -43,7 +42,7 @@ displayscreen.blit(player_image, player_rect)
 ```
 **_5. Game Assets_**:<br>
 [Icon Archieve:](https://iconarchive.com/) 網站提供很多遊戲角色下載
-[ Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以自己簡單製作音效
+[Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以自己簡單製作音效
     
     
 ![2.py程式截圖](https://github.com/FANG960311/PYGAME_basics/blob/main/1.png)
